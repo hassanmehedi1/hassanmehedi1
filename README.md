@@ -6,7 +6,7 @@ Jr. Web Developer
 
 I enjoy the process of software development since it allows you to turn an idea into an actual product that many people can utilize. Over the years, I've developed a strong understanding of topics such as architecture and communication. I understood that those things are exactly what distinguishes successful projects from failed projects. It's critical to lay a solid foundation/architecture for an application on which the team may build. It cuts down on maintenance time as well as time spent developing new features, all while making the crew happier.
 
-*   🌍  I'm based in Dhaka, bangladesh
+*   🌍  I'm based in Dhaka, Bangladesh
 *   🖥️  See my portfolio at [Portfolio](http://pc-monkey.web.app/portfolio)
 *   ✉️  You can contact me at [mehedihypernova@gmail.com](mailto:mehedihypernova@gmail.com)
 *   🚀  I'm currently working on [Pc Monkey](http://pc-monkey.web.app/)
