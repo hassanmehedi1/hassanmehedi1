@@ -9,9 +9,9 @@ I enjoy the process of software development since it allows you to turn an idea 
 *   🌍  I'm based in Dhaka, Bangladesh
 *   🖥️  See my portfolio at [Portfolio](https://mehediportfolio.netlify.app/)
 *   ✉️  You can contact me at [mehedihypernova@gmail.com](mailto:mehedihypernova@gmail.com)
-*   🚀  I'm currently working on [Pc Monkey](http://pc-monkey.web.app/)
+*   🚀  I'm currently working on [University Management](http://pc-monkey.web.app/)
 *   🧠  I'm learning Nextjs and Redux
-*   🤝  I'm open to collaborating on Full Stack Web Developement
+*   🤝  I'm open to collaborating on Full Stack Web Development
 *   ⚡  Fun fact: I love making Meme's
 ### Skills
 <p align="left">
