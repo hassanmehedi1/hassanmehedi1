@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanmehedi1&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihassan" /> </p>
 
-- I am currently working on [Acote](https://www.acotegroup.com)
+- I am currently working on [LMS](https://www.acotegroup.com)
 
 - 🌱 I’m currently learning **Next Js, Django**
 
