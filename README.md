@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next Js, Django**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://mehediportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://hassanmehedi.vercel.app/)
 
 - 💬 Ask me about **MERN,Web Application/ Mobile Apps Development**
 
